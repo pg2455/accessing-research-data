@@ -8,3 +8,6 @@ Basic knowledge of using `pandas` dataframes in Python is required. Following to
 2. Week 2: Accessing Reddit and Wikipedia through APIs
 3. Week 3: Accessing Twitter using Twitter API
 4. Week 4: Web Crawling
+
+
+To view this course on Deepnote, [click here](https://deepnote.com/project/Accessing-Research-Data-Assignments-90bjc9xBTb6z-V869C_2WA)
